@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Adam Abrahamsson
-- 👀 I am a third-year student in Software Engineering and Management with-up-to-date knowledge and skills. I am seeking an internship or a position in the tech industry where I can develop my technical skills, teamwork abilities, and advance my career in the field of software engineering.
+👋 Hi, I’m @Adam Abrahamsson
+
+🎓 I recently graduated with a degree in Software Engineering and Management.
+
+👀 I’m currently seeking a full-time position or internship in the tech industry where I can apply my up-to-date knowledge, strengthen my technical and collaboration skills, and grow my career in software engineering.
 
 
 <!---
